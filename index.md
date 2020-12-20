@@ -22,4 +22,4 @@ layout: template
 ### Skills & Tools
 
 *  [Skills](topics/skills.md)
-*  [Tools][topics/tools.md)
+*  [Tools](topics/tools.md)
