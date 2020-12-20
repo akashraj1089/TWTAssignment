@@ -20,6 +20,10 @@ Currently possessing **eight (8) plus years** of experience as a Software Techni
 *  [ValueLabs](topics/valuelabs.md)
 *  [Cyient](topics/cyient.md)
 
+### Tenure Details
+
+[Tenure](topics/tenure.md)
+
 ### Skills
 
 1. User Manuals/Guides
