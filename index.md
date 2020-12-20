@@ -6,13 +6,9 @@ layout: template
 
 **A Software Technical Writer by profession whose life revolves around creating and revamping the Technical Information for its intended audience at their respective technicality levels.**
 
-### Designation
 
-Currently designated as **Senior Technical Writer** in a Product-based company at Hyderabad.
+###[Professional Experience](topics/professional.md)
 
-### Professional Experience
-
-Currently possessing **eight (8) plus years** of experience as a Software Technical Writer.
 
 ### Employment Experience
 
