@@ -8,7 +8,7 @@ Currently designated as **Senior Technical Writer** in a Product-based company a
 
 ### Professional Experience
 
-Currently possessing ** eight (8) plus years** of experience as a Software Technical Writer.
+Currently possessing **eight (8) plus years** of experience as a Software Technical Writer.
 
 ### Employment Experience
 
