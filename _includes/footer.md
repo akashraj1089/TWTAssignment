@@ -1,2 +1,2 @@
 
-&copy: {{ site.name }}, 2020
+&copy: TechWriterTribe, 2020
