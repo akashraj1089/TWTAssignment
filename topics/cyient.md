@@ -1,8 +1,9 @@
 ---
 layout: template
+title: Roles and Responsibilities in Cyient
 ---
 
-## Synopsis
+## {{ page.title }}
 
 *  Created User Manuals, Online Help files, User Guides, Troubleshooting Manuals, Release notes for Boeing In-house tools.
 *  Used style guides like Microsoft Manual of Style (MSTP) and Company or

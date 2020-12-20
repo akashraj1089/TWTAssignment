@@ -1,8 +1,9 @@
 ---
 layout: template
+title: Roles and Responsibilities in ValueLabs 
 ---
 
-## Synopsis
+## {{ page.title }}
 
 *  Created all types of technical documents that are used for Project execution and Production Support for various IT verticals.
 *  Owned full accountability in carrying out complete DDLC process from requirements gathering to publishing the desired documentation andthereby maintaining it with latest enhancements and updates.

@@ -16,9 +16,9 @@ Currently possessing **eight (8) plus years** of experience as a Software Techni
 
 ### Employment Experience
 
-*  Amphora
-*  ValueLabs
-*  Cyient
+*  [Amphora](topics/amphora.md)
+*  [ValueLabs](topics/valuelabs.md)
+*  [Cyient](topics/cyient.md)
 
 ### Skills
 

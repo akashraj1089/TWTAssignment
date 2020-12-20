@@ -1,8 +1,9 @@
 ---
 layout: template
+title: Roles and Responsibilities in Amphora
 ---
 
-## Synopsis
+## {{ page.title }}
 
 *  Responsible for execution of complete Document Development life cycle and maintaining the deliverables as per business needs and inclined with Product Releases.
 *  Creating, Editing and Reviewing several Technical deliverables in terms of documentation to map it with Product and patch releases.
