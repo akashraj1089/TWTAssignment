@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 ## Synopsis
 
 *  Created User Manuals, Online Help files, User Guides, Troubleshooting Manuals, Release notes for Boeing In-house tools.

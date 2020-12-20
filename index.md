@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 # Akash Raj
 
 **```A Software Technical Writer by profession whose life revolves around creating and revamping teh Technical Information for its intended audience at their respective technicality levels.```**

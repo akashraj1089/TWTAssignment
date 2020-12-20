@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 ## Synopsis
 
 *  Created all types of technical documents that are used for Project execution and Production Support for various IT verticals.

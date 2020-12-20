@@ -1,3 +1,7 @@
+---
+layout: template
+---
+
 ## Synopsis
 
 *  Responsible for execution of complete Document Development life cycle and maintaining the deliverables as per business needs and inclined with Product Releases.
