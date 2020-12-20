@@ -15,10 +15,11 @@ layout: template
 
 ### Tenure Details
 
-[Tenure](topics/tenure.md)
-[Professional Experience](topics/Professional.md)
+*  [Tenure](topics/tenure.md)
+*  [Professional Experience](topics/Professional.md)
 
 
-### Skills
+### Skills & Tools
 
-[Skills](topics/skills.md)
+*  [Skills](topics/skills.md)
+*  [Tools][topics/tools.md)
